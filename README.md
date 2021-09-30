@@ -1,7 +1,6 @@
 ## Canine Convention
 
-### Vision Statement
-Our app is for dog owners who want to meet up with other dog owners to socialize. The Canine Convention is an app that allows owners to meet up with other nearby owners and their dogs to go on walks or to parks. A good reason for using this app is the chance for people to go out and connect with other pet-lovers (animal lovers), and improve their mental and social life. Other dog walking apps are focused solely on walking and don’t allow for owners to meet up with others. Our app targets both walkers and those who prefer going to dog parks and also allows for owners to meet up with each other.
+Have you ever been sitting around with your Dog and you say to your self "I want my Dog to have friends?" Well, we might have the solution. All Dog owners want their Dog to be happy but maybe they don't have enough resources to do it. The Canine Convention app allows dog owners to meet up with other dog owners so their pets can socialize. The idea is to match Dog owners together based on similar interests and get them to meet up for either a walk or even just go to the local dog park so their dogs can play. Other dog-walking apps are focused solely on dog walking and don’t even give the option to meet up at other places. Other Dog walking apps are also solely focused on the owner but our app Targets both the Dog owner and the mental health of the Dog. Our app also targets both Dog walkers and those who prefer going to dog parks and also allows for owners to meet up with each other.
 
 ### Team Members:
 * Henry Baldacci
