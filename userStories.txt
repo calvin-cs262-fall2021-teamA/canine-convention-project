@@ -1,0 +1,10 @@
+* As a user with web access, I want the app to respond in less than 3 seconds because I do not want to wait longer than that
+* As a user I want to be able to be able to invite people to walk/ go to the park with me in less than 5 steps because I don’t want the process to be too complicated or take a lot of time
+* As a user I want to see information about the person I am matched with because I want to be able to identify them at the park/trail
+* As a user I want to be able to figure out all the main functions in under 5 minutes without help because I do not have time to figure out a complicated app
+* As an owner of multiple dogs I want to be able to add more than one dog to my profile because I want to be able to find friends for all my dogs
+* As a Dog owner I want to be able to post a picture of my Dog on the account
+* As a Dog owner I want to be able to make an account, so I don’t have to put in information about my dog every time I use the app.
+* As a Dog owner I want to filter my event easily.
+* As a Dog owner I want to ensure that the person I am meeting with has a Dog
+
