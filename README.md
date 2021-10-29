@@ -8,3 +8,11 @@ Have you been looking for friends for your dog? How about fellow dog owner frien
 * Eric Klomp
 * Gia Mien Le
 * Valerie Vreugdenhil
+
+
+### Domain Model:
+https://github.com/calvin-cs262-fall2021-teamA/canine-convention-project/blob/7ab942be900d621342b0c2058e6f25f3cef96ad1/Class%20diagram.drawio.png
+
+### UI Model:
+https://github.com/calvin-cs262-fall2021-teamA/canine-convention-project/blob/7ab942be900d621342b0c2058e6f25f3cef96ad1/images/Full%20UI%20Mockup.pdf
+
