@@ -7,4 +7,4 @@
 * As a Dog owner I want to be able to make an account, so I don’t have to put in information about my dog every time I use the app.
 * As a Dog owner I want to filter my event easily.
 * As a Dog owner I want to ensure that the person I am meeting with has a Dog
-
+* As a user I want the app to use a relational database because I want my information to be saved.
