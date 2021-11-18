@@ -10,9 +10,10 @@ Have you been looking for friends for your dog? How about fellow dog owner frien
 * Valerie Vreugdenhil
 
 
-### Domain Model:
-[Domain model](https://github.com/calvin-cs262-fall2021-teamA/canine-convention-project/blob/master/images/Domain%20model.png)
+### Deliverables
+* [Domain model](https://github.com/calvin-cs262-fall2021-teamA/canine-convention-project/blob/master/images/Domain%20model.png)
 
-### UI Model:
-[UI Model](https://github.com/calvin-cs262-fall2021-teamA/canine-convention-project/blob/master/images/Full%20UI%20Mockup.pdf)
+* [UI Model](https://github.com/calvin-cs262-fall2021-teamA/canine-convention-project/blob/master/images/Full%20UI%20Mockup.pdf)
+
+* [Presentation slides](https://github.com/calvin-cs262-fall2021-teamA/canine-convention-project/blob/98ca4553a1807a4761eeee5e1fd0c8be5b983715/presentation/Canine-Convention-Presentation%20(1).pptx)
 
