@@ -17,3 +17,5 @@ Have you been looking for friends for your dog? How about fellow dog owner frien
 
 * [Presentation slides](https://github.com/calvin-cs262-fall2021-teamA/canine-convention-project/blob/98ca4553a1807a4761eeee5e1fd0c8be5b983715/presentation/Canine-Convention-Presentation%20(1).pptx)
 
+* [Usability Test Script] (https://docs.google.com/document/d/1fX71r3r_h2qKcfZgbbRVnXrJsdxDOlWIE79J-lIreKI/edit
+
