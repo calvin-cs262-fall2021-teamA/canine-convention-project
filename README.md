@@ -22,3 +22,5 @@ Have you been looking for friends for your dog? How about fellow dog owner frien
 * [Deployment Diagram](https://github.com/calvin-cs262-fall2021-teamA/canine-convention-project/blob/master/images/Deployment_Diagram.pdf)
 
 * [Usability Test Report](https://docs.google.com/document/d/1Z7aWM8UmTMGvBRn0eq_MWbtEEGQliQOK6LZoxWaqvEE/edit?usp=sharing)
+
+* [User Tests Report](https://github.com/calvin-cs262-fall2021-teamA/canine-convention-project/blob/master/Usability%20test%20report.docx)
