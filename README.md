@@ -19,7 +19,7 @@ Have you been looking for friends for your dog? How about fellow dog owner frien
 
 * [Usability Test Script](https://docs.google.com/document/d/1fX71r3r_h2qKcfZgbbRVnXrJsdxDOlWIE79J-lIreKI/edit)
 
-* [Deployment Diagram](https://github.com/calvin-cs262-fall2021-teamA/canine-convention-project/blob/master/images/Deployment_Diagram.pdf)
+* [Deployment Diagram](https://github.com/calvin-cs262-fall2021-teamA/canine-convention-project/blob/b8c476a723b41189878fac9ffdefe45f88f5af0d/images/DeploymentDiagram.pdf)
 
 * [Usability Test Report](https://docs.google.com/document/d/1Z7aWM8UmTMGvBRn0eq_MWbtEEGQliQOK6LZoxWaqvEE/edit?usp=sharing)
 
